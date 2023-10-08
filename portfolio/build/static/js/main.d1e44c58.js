@@ -13358,7 +13358,8 @@
                           children: [
                             (0, E.jsxs)("button", {
                               type: "button",
-                              class: "btn btn-info ",
+                              class: "btn ",
+                              target: "_blank",
                               children: [
                                 "\xa0",
                                 " ",
@@ -13372,9 +13373,16 @@
                             "\xa0 \xa0",
                             (0, E.jsxs)("button", {
                               type: "button",
-                              class: "btn btn-info ",
-                              href: "https://drive.google.com/file/d/1ZiJS9FjHuA-rnchoUdPp9z8vhXr8WgAM/view?usp=sharing",
-                              children: "CV",
+                              class: "btn ",
+                              target: "_blank",
+                              children: [
+                                "\xa0",
+                                " ",
+                                (0, E.jsx)("a", {
+                                  href: "https://drive.google.com/file/d/1ZiJS9FjHuA-rnchoUdPp9z8vhXr8WgAM/view?usp=sharing",
+                                  children: "CV",
+                                }),
+                              ],
                             }),
                           ],
                         }),
@@ -13482,7 +13490,14 @@
                                     type: "button",
                                     class: "btn btn-info ",
                                     href: "https://github.com/jayantibhandari",
-                                    children: "GitHub Project Link",
+                                    children: [
+                                      "\xa0",
+                                      " ",
+                                      (0, E.jsx)("a", {
+                                        href: "https://github.com/jayantibhandari",
+                                        children: "Github link ->",
+                                      }),
+                                    ],
                                   }),
                                 ],
                               }),
@@ -13530,7 +13545,14 @@
                                     type: "button",
                                     class: "btn btn-info ",
                                     href: "https://github.com/jayantibhandari",
-                                    children: "GitHub Project Link",
+                                    children: [
+                                      "\xa0",
+                                      " ",
+                                      (0, E.jsx)("a", {
+                                        href: "https://github.com/jayantibhandari",
+                                        children: "Github link ->",
+                                      }),
+                                    ],
                                   }),
                                 ],
                               }),
@@ -13578,7 +13600,14 @@
                                     type: "button",
                                     class: "btn btn-info ",
                                     href: "https://github.com/jayantibhandari",
-                                    children: "GitHub Project Link",
+                                    children: [
+                                      "\xa0",
+                                      " ",
+                                      (0, E.jsx)("a", {
+                                        href: "https://github.com/jayantibhandari",
+                                        children: "Github link ->",
+                                      }),
+                                    ],
                                   }),
                                 ],
                               }),
@@ -13626,7 +13655,14 @@
                                     type: "button",
                                     class: "btn btn-info ",
                                     href: "https://github.com/jayantibhandari",
-                                    children: "GitHub Project Link",
+                                    children: [
+                                      "\xa0",
+                                      " ",
+                                      (0, E.jsx)("a", {
+                                        href: "https://github.com/jayantibhandari",
+                                        children: "Github link ->",
+                                      }),
+                                    ],
                                   }),
                                 ],
                               }),
