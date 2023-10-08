@@ -13357,9 +13357,10 @@
                           class: " buttons d-grid gap-2 d-md-block",
                           children: [
                             (0, E.jsxs)("button", {
+                              type: "a",
                               class: "btn btn-primary",
-                              type: "button",
                               href: "../media/cv.pdf",
+                              target: "_blank",
                               children: [(0, E.jsx)(d, {}), " \xa0 Resume"],
                             }),
                             " ",
@@ -13367,6 +13368,7 @@
                             (0, E.jsxs)("button", {
                               class: "btn btn-primary",
                               href: "../media/cv.pdf",
+                              target: "_blank",
                               type: "button",
                               children: [(0, E.jsx)(d, {}), " \xa0 CV"],
                             }),
