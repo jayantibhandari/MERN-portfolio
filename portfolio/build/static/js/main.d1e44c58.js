@@ -13364,6 +13364,7 @@
                                 "\xa0",
                                 " ",
                                 (0, E.jsx)("a", {
+                                  target: "_blank",
                                   href: "https://drive.google.com/file/d/1ZiJS9FjHuA-rnchoUdPp9z8vhXr8WgAM/view?usp=sharing",
                                   children: "Resume",
                                 }),
@@ -13379,6 +13380,7 @@
                                 "\xa0",
                                 " ",
                                 (0, E.jsx)("a", {
+                                  target: "_blank",
                                   href: "https://drive.google.com/file/d/1ZiJS9FjHuA-rnchoUdPp9z8vhXr8WgAM/view?usp=sharing",
                                   children: "CV",
                                 }),
