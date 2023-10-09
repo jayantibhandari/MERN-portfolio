@@ -13356,7 +13356,7 @@
                         (0, E.jsxs)("div", {
                           class: " buttons d-grid gap-2 d-md-block",
                           children: [
-                            (0, E.jsxs)("button", {
+                            (0, E.jsxs)("buttons", {
                               type: "button",
                               class: "btn ",
                               target: "_blank",
@@ -13372,7 +13372,7 @@
                             }),
                             " ",
                             "\xa0 \xa0",
-                            (0, E.jsxs)("button", {
+                            (0, E.jsxs)("buttons", {
                               type: "button",
                               class: "btn ",
                               target: "_blank",
